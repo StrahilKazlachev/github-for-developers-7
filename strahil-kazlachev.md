@@ -3,3 +3,4 @@
  - Somewhere
  - Meat
  - Games
+ - Color: bugish red
